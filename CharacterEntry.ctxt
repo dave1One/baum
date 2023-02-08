@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CharacterEntry
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ CharacterEntry.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pWert
+comment1.target=CharacterEntry(java.lang.String)
+comment2.params=pContent
+comment2.target=boolean\ isLess(CharacterEntry)
+comment3.params=pContent
+comment3.target=boolean\ isEqual(CharacterEntry)
+comment4.params=pContent
+comment4.target=boolean\ isGreater(CharacterEntry)
+comment5.params=
+comment5.target=java.lang.String\ getWert()
+numComments=6
